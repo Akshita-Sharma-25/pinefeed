@@ -6,7 +6,8 @@
   
   .ggl-play{
     box-sizing: border-box;
-    width:15rem;
+    width:13rem;
+    padding-top: 0;
   }
 
 
@@ -159,12 +160,16 @@ border-radius: 30px;
 }
 
 .last-section-content{
-    position: relative;
     box-sizing: border-box;
-    width: 50rem;
-    
+    width: 35rem;
+    margin-left: 5rem;
 }
 
+.ggl-play p{
+    margin-bottom: 0;
+}
 
-
-.last-section-content-img
+.last-section-content-img{
+    position: relative;
+    left: 7rem;
+}
