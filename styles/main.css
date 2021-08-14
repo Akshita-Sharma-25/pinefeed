@@ -1,0 +1,10 @@
+.card-button{
+    background-color: rgba(60, 201, 167, 1) !important; 
+    border: none;
+    color: white;
+  }
+  
+  .ggl-play{
+    box-sizing: border-box;
+    width:15rem;
+  }
